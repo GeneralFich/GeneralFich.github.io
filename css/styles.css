@@ -24,19 +24,32 @@ h1 {
   color: #222831;
 }
 
-h4 {
+h2 {
   color: #222831;
+  font-size: 100;
+}
+
+h3 {
+  font-size: large;
+}
+
+.section {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.section-header {
   text-align: center;
 }
 
-tr {
-  line-height: 40px;
+.skill {
+    font-weight: bolder;
 }
 
-td {
-  column-width: 40;
+#namecard-table {
+    font-weight: 700;
 }
 
 #resume-name {
-  color: #00adb5;
+  font-weight: 700;
 }
