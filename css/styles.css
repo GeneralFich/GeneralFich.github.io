@@ -36,3 +36,7 @@ tr {
 td {
   column-width: 40;
 }
+
+#resume-name {
+  color: #00adb5;
+}
