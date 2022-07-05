@@ -829,6 +829,7 @@ a:hover {
   );
   bottom: 0;
   cursor: default;
+  font-size: small;
   height: 6em;
   left: 0;
   line-height: 8em;
